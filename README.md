@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @baylac, also @JordyBaylac
+- 👀 I’m interested in building resilient and scalable services, and also on helping teams to create robust solutions
